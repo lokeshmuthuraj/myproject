@@ -1,2 +1,2 @@
-I am editing file1 now.
-I am checking the git update.
+This file1 is copied!
+I am editing this !
